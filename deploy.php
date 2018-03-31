@@ -16,7 +16,7 @@ set('git_tty', true);
 add('shared_files', []);
 add('shared_dirs', []);
 
-// Writable dirs by web server
+// Writable dirs by web server`
 add('writable_dirs', []);
 
 
